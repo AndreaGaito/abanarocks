@@ -21,7 +21,7 @@ name = "Portfolio"
 url = "#portfolio"
 weight = 4
 [[menu.main]]
-name = "Prof"
+name = "Docenti"
 url = "#service2"
 weight = 5
 [[menu.main]]

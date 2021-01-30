@@ -1,5 +1,5 @@
 ---
-title: Recipe App Ux Study
+title: Progetto Abana
 date: 2020-08-12T18:19:35.000+06:00
 thumbnail: images/portfolio/portfolio-3.png
 service: UX Design, UX Research

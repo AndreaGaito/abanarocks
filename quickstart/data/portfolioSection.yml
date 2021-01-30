@@ -3,3 +3,5 @@ enable: true
 topTitle: Portfolio
 title: >
   ## I nostri lavori più recenti
+
+buttonTarget: section case-details

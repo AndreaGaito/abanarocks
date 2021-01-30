@@ -1,5 +1,5 @@
 ---
-title: UX Case Study for Agriculture App
+title: Progetto Abana
 date: 2020-08-12T12:13:40+00:00
 thumbnail: images/portfolio/portfolio-4.png
 service: UX Design
