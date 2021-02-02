@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://www.abana.rocks/"
 languageCode = "it-it"
 paginate = 6
 theme = "portio"
